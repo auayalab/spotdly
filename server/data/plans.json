@@ -1,0 +1,178 @@
+[
+  {
+    "id": "south-pointe-sunset",
+    "name": "Atardecer en South Pointe Park",
+    "area": "South Beach",
+    "vibe": "playa",
+    "price": 1,
+    "time": "tarde",
+    "emoji": "🌅",
+    "description": "Muelle, pasto y el mejor atardecer de Miami Beach. Lleven toalla y bocina.",
+    "pepsi": { "drink": "zero", "moment": "Hielera con Pepsi Zero Sugar para el brindis justo cuando se oculta el sol." }
+  },
+  {
+    "id": "key-biscayne-beach",
+    "name": "Día de playa en Key Biscayne",
+    "area": "Key Biscayne",
+    "vibe": "playa",
+    "price": 1,
+    "time": "dia",
+    "emoji": "🏖️",
+    "description": "Agua tranquila, palmeras y menos gente que en South Beach.",
+    "pepsi": { "drink": "pepsi", "moment": "Pepsi bien fría bajo la sombrilla entre chapuzón y chapuzón." }
+  },
+  {
+    "id": "oleta-paddle",
+    "name": "Paddle board en Oleta River",
+    "area": "North Miami Beach",
+    "vibe": "playa",
+    "price": 2,
+    "time": "dia",
+    "emoji": "🛶",
+    "description": "Renta de paddle o kayak entre manglares. Ideal para grupos con energía.",
+    "pepsi": { "drink": "cherry", "moment": "Pepsi Wild Cherry de recompensa al volver a la orilla." }
+  },
+  {
+    "id": "wynwood-walls",
+    "name": "Murales de Wynwood + food trucks",
+    "area": "Wynwood",
+    "vibe": "cultura",
+    "price": 1,
+    "time": "tarde",
+    "emoji": "🎨",
+    "description": "Recorrido por los murales y cierre en los food trucks del barrio.",
+    "pepsi": { "drink": "pepsi", "moment": "Una Pepsi en mano para la foto del grupo frente al mural." }
+  },
+  {
+    "id": "museum-park",
+    "name": "Museo de arte y Museum Park",
+    "area": "Downtown",
+    "vibe": "cultura",
+    "price": 2,
+    "time": "dia",
+    "emoji": "🖼️",
+    "description": "Exposición, terraza frente a la bahía y caminata por el parque.",
+    "pepsi": { "drink": "zero", "moment": "Pausa con Pepsi Zero Sugar en la terraza frente a la bahía." }
+  },
+  {
+    "id": "calle-ocho",
+    "name": "Calle Ocho: cafecito, dominó y música",
+    "area": "Little Havana",
+    "vibe": "cultura",
+    "price": 1,
+    "time": "tarde",
+    "emoji": "🎺",
+    "description": "Ventanitas, parque del dominó y música en vivo al caer la tarde.",
+    "pepsi": { "drink": "pepsi", "moment": "Pepsi con los pastelitos mientras empieza la música en vivo." }
+  },
+  {
+    "id": "heat-game",
+    "name": "Partido de básquet en el Kaseya Center",
+    "area": "Downtown",
+    "vibe": "deporte",
+    "price": 3,
+    "time": "noche",
+    "emoji": "🏀",
+    "description": "Arena llena, ambiente de playoffs y cena después en Bayside.",
+    "pepsi": { "drink": "pepsi", "moment": "Pepsi para el medio tiempo; el que falle el pronóstico invita la siguiente ronda." }
+  },
+  {
+    "id": "flamingo-pickup",
+    "name": "Cascarita de básquet en Flamingo Park",
+    "area": "South Beach",
+    "vibe": "deporte",
+    "price": 1,
+    "time": "tarde",
+    "emoji": "⛹️",
+    "description": "Canchas públicas, equipos mixtos y revancha garantizada.",
+    "pepsi": { "drink": "zero", "moment": "La hielera de Pepsi Zero Sugar es el premio del equipo ganador." }
+  },
+  {
+    "id": "brickell-rooftop",
+    "name": "Rooftop en Brickell",
+    "area": "Brickell",
+    "vibe": "fiesta",
+    "price": 3,
+    "time": "noche",
+    "emoji": "🌃",
+    "description": "DJ, vista al skyline y código de vestimenta casual elegante.",
+    "pepsi": { "drink": "cherry", "moment": "Mocktail de Pepsi Wild Cherry para quien maneja de regreso." }
+  },
+  {
+    "id": "wynwood-bars",
+    "name": "Bar hopping en Wynwood",
+    "area": "Wynwood",
+    "vibe": "fiesta",
+    "price": 2,
+    "time": "noche",
+    "emoji": "🪩",
+    "description": "Tres bares a pocas cuadras, de la cervecería al patio con DJ.",
+    "pepsi": { "drink": "pepsi", "moment": "Ronda de Pepsi entre bar y bar para aguantar hasta el último." }
+  },
+  {
+    "id": "food-hall",
+    "name": "Noche de food hall en Miami Beach",
+    "area": "Miami Beach",
+    "vibe": "comida",
+    "price": 2,
+    "time": "noche",
+    "emoji": "🍜",
+    "description": "Cada quien pide lo suyo y se comparte todo en la mesa larga.",
+    "pepsi": { "drink": "zero", "moment": "Pepsi Zero Sugar para la mesa mientras llegan los platos de todos." }
+  },
+  {
+    "id": "ventanita-breakfast",
+    "name": "Desayuno cubano en una ventanita",
+    "area": "Little Havana",
+    "vibe": "comida",
+    "price": 1,
+    "time": "dia",
+    "emoji": "🥐",
+    "description": "Croquetas, pastelitos y cafecito para arrancar el día.",
+    "pepsi": { "drink": "pepsi", "moment": "Pepsi con croquetas: el combo que nadie pidió y todos repiten." }
+  },
+  {
+    "id": "midtown-tacos",
+    "name": "Tacos en Midtown",
+    "area": "Midtown",
+    "vibe": "comida",
+    "price": 2,
+    "time": "noche",
+    "emoji": "🌮",
+    "description": "Taquería con patio, música y mesas para grupo grande.",
+    "pepsi": { "drink": "cherry", "moment": "Pepsi Wild Cherry para bajar la salsa más picosa del menú." }
+  },
+  {
+    "id": "soundscape-movie",
+    "name": "Cine al aire libre en SoundScape Park",
+    "area": "South Beach",
+    "vibe": "chill",
+    "price": 1,
+    "time": "noche",
+    "emoji": "🎬",
+    "description": "Proyección gratuita en la pared gigante. Lleven manta y snacks.",
+    "pepsi": { "drink": "pepsi", "moment": "Palomitas y Pepsi: la combinación clásica de cine, ahora bajo las estrellas." }
+  },
+  {
+    "id": "board-game-cafe",
+    "name": "Juegos de mesa en Coral Gables",
+    "area": "Coral Gables",
+    "vibe": "chill",
+    "price": 1,
+    "time": "tarde",
+    "emoji": "🎲",
+    "description": "Café con cientos de juegos. Perfecto si el grupo quiere platicar.",
+    "pepsi": { "drink": "zero", "moment": "Pepsi Zero Sugar para la partida que se alarga más de lo planeado." }
+  },
+  {
+    "id": "bayside-sunset",
+    "name": "Paseo y atardecer en Bayside",
+    "area": "Downtown",
+    "vibe": "chill",
+    "price": 2,
+    "time": "tarde",
+    "emoji": "⛵",
+    "description": "Caminata por la marina, música en vivo y opción de paseo en barco.",
+    "pepsi": { "drink": "cherry", "moment": "Pepsi Wild Cherry en la cubierta mientras cae el sol sobre la bahía." }
+  }
+]
